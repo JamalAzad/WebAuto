@@ -1,0 +1,5 @@
+PageObjects\HomePage.class
+PageObjects\ContactUs.class
+PageObjectsTests\ContactUsPageTest.class
+Helper\ApplicationHelper.class
+PageObjectsTests\ContactUsPageTest2.class

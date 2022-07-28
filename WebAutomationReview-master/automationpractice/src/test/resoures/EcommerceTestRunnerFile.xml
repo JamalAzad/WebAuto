@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Automation Test" parallel="false" >
+    <test name = "Ecommerce Home">
+        <classes>
+            <class name="PageObjectsTests.ContactUsPageTest"/>
+
+            <class name="PageObjectsTests.ContactUsPageTest2"/>
+            <!--        <class name="PageObjectsTests.ContactUsTest"/>-->
+        </classes>
+    </test>
+
+</suite>
